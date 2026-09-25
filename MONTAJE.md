@@ -5,7 +5,7 @@ Carcasa de 62 × 96 × 32 mm, impresa en 3D.
 
 Contenido del paquete:
 - `reproductor/reproductor.ino`: el firmware.
-- `carcasa.scad`: la carcasa paramétrica, que se abre con OpenSCAD (gratis).
+- La carcasa sera diseñada por mi e impresa en 3D (se adjuntaran planos en un futuro)
 - Esta guía.
 
 ---
